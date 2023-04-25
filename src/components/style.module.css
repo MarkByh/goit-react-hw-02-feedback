@@ -1,0 +1,19 @@
+.buttonList {
+  display: flex;
+  list-style-type: none;
+  gap: 15px;
+}
+.feedbackBtn {
+  cursor: pointer;
+
+  font-size: 20px;
+  border-radius: 5px;
+  width: 160px;
+  height: 60px;
+}
+.feedbackBtn:hover {
+  background-color: lightgray;
+}
+.satslist {
+  list-style-type: none;
+}
